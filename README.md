@@ -11,7 +11,7 @@ ECG beat was transformed into a two dimensional gray scale image as an input dat
 the CNN classifier. Optimization of the proposed CNN classifier includes various deep
 learning techniques such as batch normalization, data augmentation, Xavier initialization,
 and dropout. In addition, we compared our proposed classifier with two well known CNN
-models; AlexNet and VGGNet. Again, we different Algorithm for classification using Knearest
+models; AlexNet and VGGNet. Again, we use different Algorithm for classification using Knearest
 Neighbors(KNN) which recently shows outstanding performance in the field of
 pattern recognition. E classifier. Optimization of the The KNN algorithm assumes that
 similar things exist in close proximity. In addition, we compared our proposed classifier
